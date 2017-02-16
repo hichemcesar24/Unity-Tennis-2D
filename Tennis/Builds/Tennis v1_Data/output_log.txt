@@ -1,0 +1,97 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7400G (ID=0x9994)
+    Vendor:   ATI
+    VRAM:     2272 MB
+    Driver:   13.251.9001.1001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.123 seconds
+Platform assembly: C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\james_000\Desktop\youtube\Udemy\Learn By Making Games\1 - Tennis\Active\Tennis\Tennis\Builds\Tennis v1_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x720 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 84.281448 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.321754 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 12.192164 ms (FindLiveObjects: 0.051295 ms CreateObjectMapping: 0.036176 ms MarkObjects: 6.193814 ms  DeleteObjects: 5.907638 ms)
+
+(-5.5, 5.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(6.1, -7.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-6.7, -7.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(7.3, -9.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-5.5, -5.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-6.1, 5.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.754855 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 0.539414 ms (FindLiveObjects: 0.045896 ms CreateObjectMapping: 0.031317 ms MarkObjects: 0.440602 ms  DeleteObjects: 0.019438 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.884444 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 0.359609 ms (FindLiveObjects: 0.045896 ms CreateObjectMapping: 0.030237 ms MarkObjects: 0.264577 ms  DeleteObjects: 0.016738 ms)
+
+(-5.5, 7.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(6.1, 7.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-6.7, 9.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(7.3, 11.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-8.1, -13.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.630666 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 0.425483 ms (FindLiveObjects: 0.043736 ms CreateObjectMapping: 0.030777 ms MarkObjects: 0.333691 ms  DeleteObjects: 0.016198 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2904 -> priority: 1 
